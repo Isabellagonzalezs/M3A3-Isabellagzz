@@ -56,6 +56,11 @@ header {
   margin-bottom: 20px;
 }
 
+.article-footer {
+  margin-top: 20px;
+  padding: 20px;
+}
+
 .page-footer {
   background-color: #333;
   color: white;
